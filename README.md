@@ -2,11 +2,11 @@
 **top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# Full Stack Blockchain Engineer.
+# Full Stack Engineer.
 
 ### Who am I?
 
-#### I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge
+#### I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge with top technologies zk-snarks
 
 ### My featured projects:
 
