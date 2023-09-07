@@ -8,6 +8,8 @@
 
 #### I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge with top technologies zk-snarks
 
+Also good at cybersecurity engineering and iot blockchain development.
+
 ### My featured projects:
 
 | ERC20 Token Generator | Crypto Trading Platform | Decentralized Exchange | NFT Website |
