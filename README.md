@@ -1,14 +1,17 @@
 <!--
-**CarloMinds/CarloMinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**getarobertson/getarobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-# Blockchain, AI, Drone Engineer
+# Software Engineer & Full Stack Developer
 
 ### Who am I?
 
+- This is Mulugeta Robertson, highly experienced software engineer & full-stack developer based in PA.
+- Product Architecutre & System Design
+  Working on platform architecture, microservices and modular design, blockchain interoperability, DeFi protocols, Blockchain Architecture, Cross-Chain integration, Security Protocols, Smart Contract Development
 - I build Defi, Dex, Smart contracts, NFT minting, staking, NFT marketplace, NFT Game Development and Cross swap & Bridge with top technologies zk-snarks
 - Optimize Trading Bots with Machine Learning for Maximum Profit
-- Build custom programs for Drone
+- Build custom programs for Drone & Robotics
 
 
 ### My featured projects:
@@ -19,8 +22,6 @@
 <img src="https://user-images.githubusercontent.com/23559697/168874696-fe4525ea-2dc0-42b3-ab48-6da2d68f050b.png" width="200"/><br/><a href="https://CarloMinds.github.io/bep20-generator/create-token/">BEP20 Generator</a> | <img src="https://user-images.githubusercontent.com/23559697/168874975-57bb3804-32d3-4e3e-9ce1-7bf680d53c25.png" width="200"/><br/><a href="https://oboltrade.com/">Oboltrade</a> | <img src="https://user-images.githubusercontent.com/23559697/168875390-d237211d-6f75-40c6-9050-197f523d8e9f.png" width="200"/><br/><a href="https://demo.silverlineswap.org/">Silverline<a/> | <img src="https://user-images.githubusercontent.com/23559697/168876320-90ac3234-b3e1-43d8-b72c-c59c5f179b61.png" width="200"/><br/><a href="https://www.fatoshi.community/home">Fatoshi</a>
 
 ### 🛠 &nbsp;Tech Stack
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -32,20 +33,22 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 
-<!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarloMinds&show_icons=true&theme=radical)-->
+<!----[getarobertson's github stats](https://github-readme-stats.vercel.app/api?username=getarobertson&show_icons=true&theme=radical)-->
  
-<!--  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarloMinds&show_icons=true&theme=radical) 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloMinds&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript)  -->
+<!--  ![getarobertson's github stats](https://github-readme-stats.vercel.app/api?username=getarobertson&show_icons=true&theme=radical) 
+ ![getarobertson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=getarobertson&show_icons=true&theme=radical&langs_count=14&layout=compact&hide=html,php,css,javascript)  -->
  <br/> <br/>
 
 
 
 <!--
-**CarloMinds/CarloMinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**getarobertson/getarobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
